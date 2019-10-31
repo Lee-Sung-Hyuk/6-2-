@@ -29,7 +29,7 @@ int main()
 
 	default:
 		printf("번호를 잘못 선택했습니다.\n");
-		break;
+		
 	}
 
 	return 0;
